@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
-import sonidoEtapa from "../../ASSETS/SONIDOS/TROLLEADO.mp3";
-import sonidoFinal from "../../ASSETS/SONIDOS/SILV.mp3";
+import sonidoEtapa from "../../ASSETS/SONIDOS/ETAPA.mp3";
+import sonidoFinal from "../../ASSETS/SONIDOS/FIN.mp3";
 import "../../SCC/nosotros.css";
 
 function Nosotros() {
